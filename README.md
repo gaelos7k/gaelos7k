@@ -98,11 +98,27 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
 />
 <img 
     align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
 <br/>
