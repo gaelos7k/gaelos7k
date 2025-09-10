@@ -1,6 +1,6 @@
 # 👾 Gabriel Gonçalves
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Backend`**
 
 Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Santa Cruz do Capibaribe. Sou bacharel em admininstração e atualmente, estou cursando técnico em desenvolvimento de sistemas no Senac Minas. Sou apaixonada por tecnologia e em breve iniciarei a minha graduação de engenharia de software. Ás vezes gosto de compartilhar meu conhecimento através do meu canal no YouTube "[Gaelos](https://www.youtube.com/@gaelos777/featured)". Caso queira um contato mais pessoal meu instagram é o "[@gaelos7k](https://www.instagram.com/gaelos7k/)".
 
@@ -73,11 +73,11 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
 />
 <img 
     align="left" 
-    alt="Vue.js"
-    title="Vue.js" 
+    alt="Fastify"
+    title="Fastify" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
 />
 <img 
     align="left" 
@@ -119,6 +119,24 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 
 <br/>
