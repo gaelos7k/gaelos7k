@@ -43,7 +43,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -51,7 +51,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -59,7 +59,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -67,7 +67,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
@@ -75,7 +75,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="Fastify"
     title="Fastify" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
 />
@@ -83,7 +83,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="Node.js" 
     title="Node.js"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
@@ -92,7 +92,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="Git" 
     title="Git"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -100,7 +100,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="GitHub" 
     title="GitHub"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
@@ -108,7 +108,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="Python" 
     title="Python"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -116,7 +116,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -125,7 +125,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
@@ -134,7 +134,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
@@ -143,7 +143,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="Postman" 
     title="Postman"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
@@ -152,7 +152,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="Linux" 
     title="Linux"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
@@ -161,7 +161,7 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     align="left" 
     alt="Ubuntu" 
     title="Ubuntu"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
 />
