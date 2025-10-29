@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8,7,20&height=180&section=header&text=Gabriel%20Gonçalves&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7,20&height=180&section=header&text=Gabriel%20Gonçalves&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
 <div align="center">
@@ -10,13 +10,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-Me chamo **Gabriel Henrique da Silva Gonçalves**, tenho 23 anos e sou natural de Santa Cruz do Capibaribe. Sou bacharel em **Administração** e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** no Senac Minas. 
+Me chamo **Gabriel Henrique da Silva Gonçalves**, tenho 23 anos e sou natural de Santa Cruz do Capibaribe. Sou bacharel em **Administração** e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas** no Senac Minas.
 
 - 🎯 Atualmente estagiando na **San Educacional EAD** como desenvolvedor backend
 - 📹 Compartilho conhecimento no meu canal "[Gaelos](https://www.youtube.com/@gaelos777/featured)"
 - 🚀 Apaixonado por criar soluções eficientes e escaláveis
-
-
 
 <div align="center">
 
@@ -72,6 +70,7 @@ Me chamo **Gabriel Henrique da Silva Gonçalves**, tenho 23 anos e sou natural d
 <div align="center">
 
 ### 🎨 Frontend
+
 <p align="center">
 <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -83,6 +82,7 @@ Me chamo **Gabriel Henrique da Silva Gonçalves**, tenho 23 anos e sou natural d
 </p>
 
 ### ⚙️ Backend
+
 <p align="center">
 <img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img alt="Fastify" title="Fastify" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
@@ -91,6 +91,7 @@ Me chamo **Gabriel Henrique da Silva Gonçalves**, tenho 23 anos e sou natural d
 </p>
 
 ### 🗄️ Banco de Dados
+
 <p align="center">
 <img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -98,6 +99,7 @@ Me chamo **Gabriel Henrique da Silva Gonçalves**, tenho 23 anos e sou natural d
 </p>
 
 ### ☁️ Cloud & DevOps
+
 <p align="center">
 <img alt="Docker" title="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img alt="Digital Ocean" title="Digital Ocean" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
@@ -108,14 +110,18 @@ Me chamo **Gabriel Henrique da Silva Gonçalves**, tenho 23 anos e sou natural d
 </p>
 
 ### 🧪 Testes
+
 <p align="center">
 <img alt="Vitest" title="Vitest" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 </p>
 
 ### 🛠️ Ferramentas
+
 <p align="center">
 <img alt="Postman" title="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img alt="VS Code" title="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img alt = "PyCharm" title = "PyCharm" width= "40px" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
+
 </p>
 
 </div>
