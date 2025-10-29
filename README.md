@@ -136,6 +136,7 @@ Me chamo **Gabriel Henrique da Silva Gonçalves**, tenho 23 anos e sou natural d
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gaelos7k&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=gaelos7k&theme=tokyonight&hide_border=true&background=0D1117&fire=FF6D00&ring=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -149,6 +150,12 @@ Me chamo **Gabriel Henrique da Silva Gonçalves**, tenho 23 anos e sou natural d
 
 <div align="center">
 
+### 👀 Visitantes do Perfil
+
+![](https://komarev.com/ghpvc/?username=gaelos7k&color=6C63FF&style=for-the-badge&label=Visitantes)
 
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,8,20&height=120&section=footer" width="100%"/>
+</div>
