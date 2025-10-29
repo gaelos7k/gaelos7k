@@ -37,8 +37,9 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
 
 ---
 
-### 💻 Linguagens e Tecnologias
+### 💻 Stack Tecnológica
 
+#### 🎨 Frontend
 <img 
     align="left" 
     alt="HTML"
@@ -73,12 +74,25 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
 />
 <img 
     align="left" 
-    alt="Fastify"
-    title="Fastify" 
+    alt="React"
+    title="React" 
     width="35px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Next.js"
+    title="Next.js" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+
+<br/>
+<br/>
+
+#### ⚙️ Backend
 <img 
     align="left" 
     alt="Node.js" 
@@ -87,7 +101,72 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="Fastify"
+    title="Fastify" 
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
+<br/>
+<br/>
+
+#### 🗄️ Banco de Dados
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Redis" 
+    title="Redis"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" 
+/>
+
+<br/>
+<br/>
+
+#### ☁️ Cloud & DevOps
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Digital Ocean" 
+    title="Digital Ocean"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -106,57 +185,12 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="Linux" 
     title="Linux"
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Ubuntu" 
@@ -164,6 +198,32 @@ Me chamo Gabriel Henrique da Silva Gonçalves, tenho 23 anos e sou natural de Sa
     width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
+/>
+
+<br/>
+<br/>
+
+#### 🧪 Testes
+<img 
+    align="left" 
+    alt="Vitest" 
+    title="Vitest"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" 
+/>
+
+<br/>
+<br/>
+
+#### 🛠️ Ferramentas
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="35px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 
 <br/>
