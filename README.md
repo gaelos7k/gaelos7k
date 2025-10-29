@@ -141,7 +141,6 @@ Me chamo **Gabriel Henrique da Silva Gonçalves**, tenho 23 anos e sou natural d
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelos7k&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=gaelos7k&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
 </p>
 
 </div>
