@@ -1,8 +1,7 @@
 # Gabriel Gonçalves
 
-<table border="0">
-<tr>
-<td>
+<div>
+<img align="right" src="https://media.tenor.com/ToIPfeRUy7MAAAAi/solaire-praisethesun.gif" width="89" alt="Solaire"/><img align="right" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" width="40" alt="Bonfire"/>
 
 **Desenvolvedor Fullstack** | Especializado em Backend, Clean Architecture & APIs RESTful
 
@@ -11,14 +10,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@devpai-1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://gabrielgoncalves.tech)
 
-</td>
-<td>
+</div>
 
-<img src="https://media.tenor.com/ToIPfeRUy7MAAAAi/solaire-praisethesun.gif" width="89" alt="Solaire"/><img src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" width="40" alt="Bonfire"/>
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
