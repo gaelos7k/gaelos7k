@@ -1,8 +1,8 @@
 # Gabriel Gonçalves
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="border-collapse: collapse; border: none;" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top">
+<td style="border: none;" valign="top">
 
 **Desenvolvedor Fullstack** | Especializado em Backend, Clean Architecture & APIs RESTful
 
