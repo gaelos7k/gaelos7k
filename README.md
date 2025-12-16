@@ -1,6 +1,6 @@
 # Gabriel Gonçalves
 
-<table>
+<table border="0">
 <tr>
 <td>
 
