@@ -12,7 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://gabrielgoncalves.tech)
 
 </td>
-<td valign="top">
+<td style="border: none;" valign="top">
 
 <img src="https://media.tenor.com/ToIPfeRUy7MAAAAi/solaire-praisethesun.gif" width="89" alt="Solaire"/> <img src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif" width="40" alt="Bonfire"/>
 
