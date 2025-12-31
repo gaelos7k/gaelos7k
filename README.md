@@ -4,7 +4,7 @@
 <tr>
 <td style="border: none;" valign="top">
 
-**Desenvolvedor Fullstack** | Especializado em Backend, Clean Architecture & APIs RESTful
+**Desenvolvedor Fullstack** | Focado em Backend, Clean Architecture & APIs RESTful
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgon%C3%A7alves0504/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gabrielhenrique.dev0504@gmail.com)
@@ -22,9 +22,10 @@
 
 ---
 
-Bacharel em Administração em transição para tecnologia, atualmente atuando como **Estagiário Fullstack** desenvolvendo sistemas comerciais completos com Clean Architecture.
-
+Sou um **Desenvolvedor Fullstack** com bacharel em administração, porque desenvolver softwares vai muito mais além do que escrever código. 
 Especializado em criar soluções backend escaláveis com foco em qualidade de código, testes automatizados e boas práticas de arquitetura.
+
+- "A programação é uma arte"
 
 📍 **Pouso Alegre, MG** | 📧 **gabrielhenrique.dev0504@gmail.com** 
 
@@ -32,8 +33,7 @@ Especializado em criar soluções backend escaláveis com foco em qualidade de c
 
 ## 🎯 Experiência
 
-### Estagiário Fullstack | San Educacional EAD
-**Desenvolvimento de Sistema Comercial Completo**
+### Desenvolvedor Fullstack | San Educacional EAD
 
 - Implementação de módulos completos com **Clean Architecture** 
 - Aplicação de **SOLID principles**, Adapter Pattern e Multi-tenancy
@@ -62,9 +62,11 @@ Especializado em criar soluções backend escaláveis com foco em qualidade de c
 
 ### Frontend
 <p>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img alt="Javascript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/></a>
 <a href="https://react.dev/"><img alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/></a>
 <a href="https://nextjs.org/"><img alt="Next.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/></a>
 <a href="https://vuejs.org/"><img alt="Vue.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"/></a>
+<a href="https://nuxt.com/"><img alt="Nuxt.js" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxt/nuxt-original.svg"/></a>
 <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/></a>
 <a href="https://sass-lang.com/"><img alt="SCSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/></a>
 <a href="https://bulma.io/"><img alt="Bulma" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bulma/bulma-plain.svg"/></a>
@@ -86,11 +88,3 @@ Especializado em criar soluções backend escaláveis com foco em qualidade de c
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaelos7k&theme=tokyonight&layout=compact&hide_border=true&langs_count=8"/>
-</div>
-
-
