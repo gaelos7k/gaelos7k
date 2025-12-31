@@ -22,8 +22,8 @@
 
 ---
 
-Sou um **Desenvolvedor Fullstack** com bacharel em administração, porque desenvolver softwares vai muito mais além do que escrever código. 
-Especializado em criar soluções backend escaláveis com foco em qualidade de código, testes automatizados e boas práticas de arquitetura.
+Sou um **Desenvolvedor Fullstack** com bacharel em administração,
+especializado em criar soluções backend escaláveis com foco em qualidade de código, testes automatizados e boas práticas de arquitetura.
 
 - "A programação é uma arte"
 
